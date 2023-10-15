@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,AAAA,KAAK,AAAC,CACN,UAAU,CAAA,QAAC,CAEX,eAAe,CAAA,QAAC,CAChB,iBAAiB,CAAA,QAAC,CACrB",
+    "sources": [
+        "../app/styles/themes/dark.scss"
+    ],
+    "names": [],
+    "file": "dark.css"
+}

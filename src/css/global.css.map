@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,AAAC,CACF,kBAAkB,CAAA,mCAAC,CAEnB,aAAa,CAAA,KAAC,CACd,aAAa,CAAA,KAAC,CACd,QAAQ,CAAA,gEAAC,CAET,aAAa,CAAA,KAAC,CACd,aAAa,CAAA,KAAC,CACd,QAAQ,CAAA,gEAAC,CACZ",
+    "sources": [
+        "../app/styles/variables/global.scss"
+    ],
+    "names": [],
+    "file": "global.css"
+}

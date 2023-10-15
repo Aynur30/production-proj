@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,AAAA,CAAC,MAAM,CAAC,CAAC,CAAC,OAAO,CAAC,CAAC,CAAC,UAAU,CAAC,UAAU,CAAE,AAAD,AAAA,IAAI,AAAA,CAAC,SAAS,CAAC,IAAI,CAAE",
+    "sources": [
+        "../../build/css/main.86c4755d.scss"
+    ],
+    "names": [],
+    "file": "main.86c4755d.css"
+}

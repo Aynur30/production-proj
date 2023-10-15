@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,AAAC,CACF,UAAU,CAAA,QAAC,CAEX,eAAe,CAAA,QAAC,CAChB,iBAAiB,CAAA,QAAC,CACrB",
+    "sources": [
+        "../app/styles/themes/normal.scss"
+    ],
+    "names": [],
+    "file": "normal.css"
+}
