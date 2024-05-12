@@ -1,5 +1,5 @@
 
-type mods = Record<string, Boolean|string>;
+type mods = Record<string, boolean|string>;
 
 export const classNames = (cls: string, mods: mods = {}, additional: string[] = []):string => {
 
